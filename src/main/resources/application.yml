@@ -1,4 +1,0 @@
-mail:
-  host: send.api.mailtrap.io
-  api-key: ${MAILTRAP_API_KEY:YOUR_DEFAULT_KEY_IF_ENV_NOT_SET} # Bruk miljøvariabel eller en standardverdi
-  from: noreply@example.com # Bytt ut med din faktiske avsenderadresse 
